@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="89604" started-at="2018-09-27T17:37:28Z" finished-at="2018-09-27T17:38:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="89604" started-at="2018-09-27T17:37:28Z" finished-at="2018-09-27T17:38:58Z">
+      <class name="qa.testcases.TestSwitchTo_Window">
+        <test-method status="PASS" signature="setUP()[pri:0, instance:qa.testcases.TestSwitchTo_Window@3c0ecd4b]" name="setUP" is-config="true" duration-ms="78699" started-at="2018-09-27T23:07:28Z" finished-at="2018-09-27T23:08:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method status="PASS" signature="validateMultipleWindowButton()[pri:0, instance:qa.testcases.TestSwitchTo_Window@3c0ecd4b]" name="validateMultipleWindowButton" duration-ms="10863" started-at="2018-09-27T23:08:47Z" finished-at="2018-09-27T23:08:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMultipleWindowButton -->
+      </class> <!-- qa.testcases.TestSwitchTo_Window -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
